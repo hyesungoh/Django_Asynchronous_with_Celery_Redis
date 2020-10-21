@@ -144,4 +144,8 @@ celery -A [프로젝트명] beat -l info
 ```
 
 ## 5. [실행결과](https://youtu.be/wAfYfT6tNiI)
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAfYfT6tNiI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
